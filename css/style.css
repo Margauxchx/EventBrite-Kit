@@ -10499,7 +10499,10 @@ footer {
   display:inline-block
 }
 
-.jumbotron {
+.jumbotron-banner {
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  background-color: #f7f7f9;
   background-image: url(../image/vishnu-r-nair-m1WZS5ye404-unsplash.jpg);
   background-size: cover;
 }
